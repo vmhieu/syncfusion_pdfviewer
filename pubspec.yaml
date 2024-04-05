@@ -38,7 +38,7 @@ dependencies:
   http: ^0.13.4
   uuid: ^4.1.0
   device_info_plus: ^3.2.2
-  intl: '>=0.17.0 <0.20.0'
+  intl: '>=0.18.0 <0.20.0'
 
   syncfusion_pdfviewer_platform_interface: 24.1.41
       # path: ../syncfusion_pdfviewer_platform_interface
